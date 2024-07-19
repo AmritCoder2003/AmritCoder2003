@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit456" alt="amrit456" /></a> </p>
 
-- 🔭 I’m currently working on **Travel-App**
+- 🔭 I’m currently working on **Appointment Scheduler**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmritCoder2003](https://github.com/AmritCoder2003)
 
