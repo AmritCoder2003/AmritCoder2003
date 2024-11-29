@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit456" alt="amrit456" /></a> </p>
 
-- 🔭 I’m currently working on **Appointment Scheduler**
+- 🔭 I’m currently working on **SkyStore**
 
 - 🌱 I’m currently learning **AI AND ML**
 
