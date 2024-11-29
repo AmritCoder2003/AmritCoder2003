@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Appointment Scheduler**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AI AND ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmritCoder2003](https://github.com/AmritCoder2003)
 
